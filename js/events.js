@@ -1,7 +1,7 @@
 //define functions here
 
 function getIt() {
-  $('img').on('click', function() {
+  $('p').on('click', function() {
     alert('Hey!');
   })
 }
